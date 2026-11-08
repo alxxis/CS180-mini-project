@@ -1,0 +1,9 @@
+# ignore myenv
+myenv/
+
+# ignore jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# ignore local python cache files
+__pycache__/
+*.pyc
